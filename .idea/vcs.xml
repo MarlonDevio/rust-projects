@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/convert_fahrenheit_to_celsius" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing_game_rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello_world/hello_cargo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules_in_rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-grepper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
